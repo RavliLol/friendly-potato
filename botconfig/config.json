@@ -1,0 +1,22 @@
+{
+  "token": "MTE5MDI0NDc1NzUxNjA2Njg5Nw.G00jcj.9dFX92Wj05iVMB6qUUPUGQObdrgXyVAZNfZV4c",
+  "prefix": "g!",
+  "ksoftapi": "",
+  
+  
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "localhost",
+         "port": 2333,
+         "password": "youshallnotpass"
+       }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "26748b7263444a02a2373571eb8cf569",
+    "clientID": "ed970ca1030b492489d40a27bd366426"
+  }
+
+}
